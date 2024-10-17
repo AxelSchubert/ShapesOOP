@@ -1,0 +1,14 @@
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/bin/Debug/net8.0/ShapesOOP
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/bin/Debug/net8.0/ShapesOOP.deps.json
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/bin/Debug/net8.0/ShapesOOP.runtimeconfig.json
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/bin/Debug/net8.0/ShapesOOP.dll
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/bin/Debug/net8.0/ShapesOOP.pdb
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.AssemblyInfoInputs.cache
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.AssemblyInfo.cs
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.csproj.CoreCompileInputs.cache
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.dll
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/refint/ShapesOOP.dll
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.pdb
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ShapesOOP.genruntimeconfig.cache
+/Users/axelschubert/RiderProjects/ShapesOOP/ShapesOOP/obj/Debug/net8.0/ref/ShapesOOP.dll
